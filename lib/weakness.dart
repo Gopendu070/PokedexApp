@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class typeWidg extends StatelessWidget {
+class Weakness extends StatelessWidget {
   List<dynamic> pokemon;
   int index;
   int no;
-  typeWidg(this.pokemon, this.index, this.no);
+  Weakness(this.pokemon, this.index, this.no);
 
   @override
   Widget build(BuildContext context) {
@@ -13,7 +13,7 @@ class typeWidg extends StatelessWidget {
       child: Padding(
         padding: const EdgeInsets.only(left: 6, right: 6, top: 3, bottom: 3),
         child: Text(
-          pokemon[index]["type"][no],
+          pokemon[index]["weaknesses"][no],
           style: TextStyle(fontSize: 15),
         ),
       ),
