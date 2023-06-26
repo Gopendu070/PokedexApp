@@ -1,3 +1,5 @@
+// ignore_for_file: must_be_immutable
+
 import 'package:flutter/material.dart';
 
 class Evolutions extends StatelessWidget {
@@ -19,14 +21,14 @@ class Evolutions extends StatelessWidget {
         pokemon[index]["next_evolution"] != null) {
       return Column(
         children: [
-          Text(
+          const Text(
             "Previous Evolution  :",
             style: TextStyle(fontSize: 20, color: Colors.white60),
           ),
           SizedBox(height: 6),
           Text(
             '${pokemon[index]["prev_evolution"][0]["name"]}',
-            style: TextStyle(fontSize: 19, color: Colors.white),
+            style: const TextStyle(fontSize: 19, color: Colors.white),
           ),
           SizedBox(height: 12),
           Container(

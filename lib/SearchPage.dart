@@ -1,3 +1,5 @@
+// ignore_for_file: must_be_immutable
+
 import 'package:flutter/material.dart';
 import 'package:pokedex/Grid.dart';
 
@@ -13,8 +15,6 @@ class _SearchPageState extends State<SearchPage> {
   List<dynamic> searchResult = [];
   @override
   Widget build(BuildContext context) {
-    var width = MediaQuery.of(context).size.width;
-    var height = MediaQuery.of(context).size.height;
     return Scaffold(
       body: Padding(
         padding: EdgeInsets.all(11),
