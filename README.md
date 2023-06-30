@@ -13,6 +13,13 @@ Welcome to the Pokedex App! This is an Android application developed using Flutt
 
 5. Smooth User Interface: The app provides a clean and intuitive user interface, making it easy for users to navigate and explore the various features.
 
+# Project Screenshots
+
+![d76aa86e-4d3e-49be-8c2b-8f6736cfa086](https://github.com/Gopendu070/PokedexApp/assets/92077709/97fcb41b-a54b-47df-a028-8c76ba05fd7e)
+
+![5a74b7ab-f44b-45e2-b807-0ef9417a5c92](https://github.com/Gopendu070/PokedexApp/assets/92077709/3f14df48-4660-44ba-a44b-02ce88567423)
+
+
 # Getting Started
 To use the Pokedex App, follow the steps below:
 
