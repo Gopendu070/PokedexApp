@@ -1,10 +1,10 @@
 # Pokedex
 Welcome to the Pokedex App! This is an Android application developed using Flutter, which provides information about various types of Pokemon, including their details, types, and evolutions. The app also features a convenient search functionality to quickly find specific Pokemon.
 
-# Project Video Link
+## Project Video Link
 https://drive.google.com/file/d/1aDwRaIbCNWlcaaM8bYhB-gLneL568FjB/view?usp=sharing
 
-# Features
+## Features
 1. Pokemon Listing: The app displays a comprehensive list of Pokemon, including their names, images, types, and other details.
 
 2. Pokemon Details: Upon selecting a specific Pokemon from the list, the app provides in-depth information about that Pokemon, such as its height, weight, abilities, and evolutions.
@@ -15,14 +15,14 @@ https://drive.google.com/file/d/1aDwRaIbCNWlcaaM8bYhB-gLneL568FjB/view?usp=shari
 
 5. Smooth User Interface: The app provides a clean and intuitive user interface, making it easy for users to navigate and explore the various features.
 
-# Project Screenshots
+## Project Screenshots
 
 ![d76aa86e-4d3e-49be-8c2b-8f6736cfa086](https://github.com/Gopendu070/PokedexApp/assets/92077709/97fcb41b-a54b-47df-a028-8c76ba05fd7e)
 
 ![5a74b7ab-f44b-45e2-b807-0ef9417a5c92](https://github.com/Gopendu070/PokedexApp/assets/92077709/3f14df48-4660-44ba-a44b-02ce88567423)
 
 
-# Getting Started
+## Getting Started
 To use the Pokedex App, follow the steps below:
 
 Prerequisites: Ensure that you have Flutter SDK installed on your development machine. You can download and install Flutter from the official Flutter website.
@@ -46,7 +46,7 @@ Copy code
 flutter run
 Explore the App: Once the app is successfully launched on your device or emulator, you can start exploring the various Pokemon, search for specific ones, view their details, and enjoy the Pokedex experience!
 
-# Contributing
+## Contributing
 Contributions to the Pokedex App are welcome! If you encounter any bugs, have suggestions for new features, or would like to contribute code improvements, please follow these steps:
 
 Fork the repository on GitHub.
