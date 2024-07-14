@@ -1,6 +1,8 @@
 # Pokedex
-
 Welcome to the Pokedex App! This is an Android application developed using Flutter, which provides information about various types of Pokemon, including their details, types, and evolutions. The app also features a convenient search functionality to quickly find specific Pokemon.
+
+# Project Video Link
+https://drive.google.com/file/d/1aDwRaIbCNWlcaaM8bYhB-gLneL568FjB/view?usp=sharing
 
 # Features
 1. Pokemon Listing: The app displays a comprehensive list of Pokemon, including their names, images, types, and other details.
